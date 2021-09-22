@@ -1,9 +1,11 @@
 # 基于用户画像的商品推荐
 ## Usage
 ### Requirments
-
-- Tensorflow-GPU 2.4.1
-- CUDA 1.10
+numpy==1.19.5
+tensorflow_gpu==2.4.1
+gensim==4.0.1
+pandas==0.25.3
+scikit_learn==0.24.2
 
 ### 代码说明
 #### 数据处理
